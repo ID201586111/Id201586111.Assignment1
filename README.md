@@ -8,12 +8,19 @@ Title: GEOG5003M Assignment 1, Online Portfolio
 
 Contents:
 •	.gitattributes - automatically created by github for repository.
+
 •	LICENSE - MIT license file- short/simple permissive license. conditions only requiring preservation of copyright&license notices stipulates the open source licence for code.
+
 •	README.md - THIS File which provides instructions and overview for the project.
+
 •	agentframework.py - the module which is used by the main model.py.
+
 •	in.txt - Raster file as text document
+
 •	index.html - The HTML file for the webpage that links to this project. 
+
 •	model.py - the main code which runs the model.
+
 
 Description:
 The project can be run from command prompt or through Spyder software. It is recommended the use should use Spyder if they want to change the number of coordinates plotted, number of iterations they move or the size of the neighbourhood. The main files for code are; 'model.py' and 'agentframework.py' and you will also need a raster file, there is one included called in.txt
